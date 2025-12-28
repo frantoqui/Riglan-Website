@@ -36,10 +36,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# amplify
-amplify/
+# amplify backend (AWS Gen 2)
+/amplify/
 .amplify/
 amplify-build-config.json
+amplify_outputs.json
 
 # IDE
 .idea
