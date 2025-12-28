@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "title": "RIGLAN - Documentos de Analisis Estructural",
+    "description": "RIGLAN publica documentos analiticos estructurados. Describen sistemas a traves de restricciones, relaciones y limites."
+  },
+  "nav": {
+    "publications": "Publicaciones",
+    "commission": "Comisionar",
+    "core": "Core",
+    "contact": "Contacto",
+    "account": "Cuenta",
+    "login": "Iniciar Sesion",
+    "logout": "Cerrar Sesion"
+  },
+  "footer": {
+    "copyright": "RIGLAN. Todos los derechos reservados.",
+    "terms": "Terminos de Servicio",
+    "privacy": "Politica de Privacidad",
+    "aiPolicy": "Prohibicion de Entrenamiento de IA"
+  },
+  "formats": {
+    "BRIEF": "Brief",
+    "DOSSIER": "Dossier",
+    "REVIEW": "Review",
+    "FILE": "File"
+  },
+  "pricing": {
+    "basePrice": "Precio Base",
+    "privatePremium": "Prima Privada",
+    "expressDelivery": "Entrega Express",
+    "catalogueDiscount": "Inclusion en Catalogo",
+    "total": "Total",
+    "currency": "USD"
+  },
+  "home": {
+    "hero": {
+      "title": "Rigor. Estructura. Invariantes.",
+      "subtitle": "RIGLAN publica documentos analiticos estructurados. Describen sistemas a traves de restricciones, relaciones y limites. Resultados, acciones y predicciones estan deliberadamente excluidos."
+    },
+    "context": {
+      "title": "Lo Que RIGLAN No Hace",
+      "description": "RIGLAN no asesora. No persuade. No recomienda. Publica documentos analiticos terminados que exponen restricciones estructurales sin interpretacion."
+    },
+    "whatYouBuy": {
+      "title": "Lo Que Compras",
+      "item1": "Documentos analiticos terminados",
+      "item2": "Descripciones estructurales de perimetros definidos",
+      "item3": "Restricciones explicitas y relaciones admisibles",
+      "item4": "Documentos para referencia y retencion a largo plazo"
+    },
+    "whatYouDontBuy": {
+      "title": "Lo Que No Compras",
+      "item1": "Asesoria o consultoria",
+      "item2": "Opiniones o recomendaciones",
+      "item3": "Escenarios o pronosticos",
+      "item4": "Presentaciones, talleres o llamadas",
+      "item5": "Servicios continuos o acceso a analistas"
+    },
+    "value": {
+      "text": "Compras un documento analitico terminado como un objeto delimitado. No compras tiempo de analista."
+    },
+    "cta": {
+      "viewPublications": "Ver Publicaciones",
+      "commission": "Comisionar una Publicacion"
+    },
+    "tagline": "Analisis de perimetro"
+  },
+  "publications": {
+    "title": "Publicaciones",
+    "description": "Los formatos de publicacion son tipos editoriales, no niveles de servicio. Cada uno sirve un proposito estructural distinto.",
+    "search": "Buscar por titulo o resumen",
+    "filters": {
+      "format": "Formato",
+      "region": "Region",
+      "domain": "Dominio",
+      "all": "Todos"
+    },
+    "card": {
+      "viewStructure": "View Structure",
+      "acquire": "Adquirir Publicacion"
+    },
+    "noResults": "No se encontraron publicaciones que coincidan con sus criterios.",
+    "formatDescriptions": {
+      "BRIEF": "Contraccion estructural. Perimetro estrecho y enfocado.",
+      "DOSSIER": "Exposicion estructurada. Perimetro a nivel de sistema.",
+      "REVIEW": "Comparacion estructural. Multiples configuraciones.",
+      "FILE": "Exhaustividad estructural. Perimetro admisible completo."
+    }
+  },
+  "commission": {
+    "title": "Comisionar",
+    "description": "Comisiona una publicacion adaptada a tu pregunta estructural especifica. Sin asesoria, interaccion o servicios de seguimiento.",
+    "form": {
+      "format": "Formato de Publicacion",
+      "topic": "Tema",
+      "topicPlaceholder": "Una oracion clara describiendo la pregunta estructural",
+      "sector": "Industria / Sector",
+      "region": "Alcance Geografico",
+      "status": "Estado de Publicacion",
+      "statusOptions": {
+        "private": "Comisionado (Privado)",
+        "catalogue": "Comisionado + Inclusion en Catalogo"
+      },
+      "expressDelivery": "Entrega Express",
+      "expressNote": "Prioridad de produccion, no una venta adicional de marketing",
+      "submit": "Enviar Solicitud",
+      "legalConfirmation": "Confirmo que he leido y acepto los Terminos de Servicio y entiendo la metodologia estructural de RIGLAN."
+    },
+    "pricing": {
+      "title": "Calculadora de Precios",
+      "basePrice": "Precio Base",
+      "privatePremium": "Prima Privada",
+      "expressDeliverySurcharge": "Recargo por Entrega Express",
+      "catalogueDiscount": "Descuento por Inclusion en Catalogo",
+      "total": "Total"
+    },
+    "process": {
+      "title": "Como Funcionan las Publicaciones Comisionadas",
+      "step1": "Selecciona un formato de publicacion",
+      "step2": "Define tu tema en una oracion clara",
+      "step3": "Indica restricciones de alcance (opcional)",
+      "step4": "Envia la solicitud para revision interna",
+      "step5": "Revision interna dentro de 48 horas habiles"
+    }
+  },
+  "core": {
+    "title": "RIGLAN Core",
+    "description": "RIGLAN Core es un marco analitico interno. Asegura que todas las publicaciones sean internamente consistentes y estructuralmente solidas.",
+    "clarification": "El marco es interno, no comercial, no accesible, no es un producto y no puede ser comprado.",
+    "closing": "RIGLAN vende publicaciones. No acceso. No metodos. No consejos."
+  },
+  "contact": {
+    "title": "Contacto",
+    "description": "Este formulario es solo para comunicacion operativa.",
+    "form": {
+      "purpose": "Proposito",
+      "purposeOptions": {
+        "billing": "Pregunta de facturacion",
+        "delivery": "Pregunta de entrega / tecnica",
+        "status": "Estado de un informe comisionado"
+      },
+      "name": "Nombre",
+      "company": "Empresa",
+      "email": "Correo electronico",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje"
+    },
+    "note": "RIGLAN no proporciona asesoria por correo electronico o telefono. Solo solicitudes operativas."
+  },
+  "legal": {
+    "title": "Legal",
+    "sections": {
+      "terms": "Terminos de Servicio",
+      "privacy": "Politica de Privacidad",
+      "aiPolicy": "Prohibicion de Entrenamiento de IA"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar Sesion",
+      "email": "Correo electronico",
+      "password": "Contrasena",
+      "submit": "Iniciar Sesion",
+      "forgotPassword": "Olvidaste tu contrasena?",
+      "noAccount": "No tienes una cuenta?",
+      "register": "Registrarse"
+    },
+    "register": {
+      "title": "Registrarse",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo electronico",
+      "password": "Contrasena",
+      "confirmPassword": "Confirmar Contrasena",
+      "organization": "Organizacion (opcional)",
+      "submit": "Crear Cuenta",
+      "hasAccount": "Ya tienes una cuenta?",
+      "login": "Iniciar Sesion"
+    }
+  },
+  "account": {
+    "title": "Cuenta",
+    "dashboard": "Panel",
+    "orders": "Historial de Compras",
+    "profile": "Perfil",
+    "welcome": "Bienvenido de nuevo"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrio un error",
+    "retry": "Intentar de nuevo",
+    "back": "Atras",
+    "next": "Siguiente",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "required": "Requerido"
+  }
+}

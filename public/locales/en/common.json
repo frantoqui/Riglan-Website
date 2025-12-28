@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "title": "RIGLAN - Structural Analysis Documents",
+    "description": "RIGLAN publishes structured analytical documents. They describe systems through constraints, relations, and limits."
+  },
+  "nav": {
+    "publications": "Publications",
+    "commission": "Commission",
+    "core": "Core",
+    "contact": "Contact",
+    "account": "Account",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "footer": {
+    "copyright": "RIGLAN. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "aiPolicy": "AI Training Prohibition"
+  },
+  "formats": {
+    "BRIEF": "Brief",
+    "DOSSIER": "Dossier",
+    "REVIEW": "Review",
+    "FILE": "File"
+  },
+  "pricing": {
+    "basePrice": "Base Price",
+    "privatePremium": "Private Premium",
+    "expressDelivery": "Express Delivery",
+    "catalogueDiscount": "Catalogue Inclusion",
+    "total": "Total",
+    "currency": "USD"
+  },
+  "home": {
+    "hero": {
+      "title": "Rigor. Structure. Invariants.",
+      "subtitle": "RIGLAN publishes structured analytical documents. They describe systems through constraints, relations, and limits. Outcomes, actions, and predictions are deliberately excluded."
+    },
+    "context": {
+      "title": "What RIGLAN Does Not Do",
+      "description": "RIGLAN does not advise. It does not persuade. It does not recommend. It publishes finished analytical documents that expose structural constraints without interpretation."
+    },
+    "whatYouBuy": {
+      "title": "What You Buy",
+      "item1": "Finished analytical documents",
+      "item2": "Structural descriptions of defined perimeters",
+      "item3": "Explicit constraints and admissible relations",
+      "item4": "Documents for reference and long-term retention"
+    },
+    "whatYouDontBuy": {
+      "title": "What You Do Not Buy",
+      "item1": "Advisory or consulting",
+      "item2": "Opinions or recommendations",
+      "item3": "Scenarios or forecasts",
+      "item4": "Presentations, workshops, or calls",
+      "item5": "Ongoing services or analyst access"
+    },
+    "value": {
+      "text": "You purchase a finished analytical document as a bounded object. You do not buy analyst time."
+    },
+    "cta": {
+      "viewPublications": "View Publications",
+      "commission": "Commission a Publication"
+    },
+    "tagline": "Perimeter analysis"
+  },
+  "publications": {
+    "title": "Publications",
+    "description": "Publication formats are editorial types, not service tiers. Each serves a distinct structural purpose.",
+    "search": "Search by title or abstract",
+    "filters": {
+      "format": "Format",
+      "region": "Region",
+      "domain": "Domain",
+      "all": "All"
+    },
+    "card": {
+      "viewStructure": "View Structure",
+      "acquire": "Acquire Publication"
+    },
+    "noResults": "No publications found matching your criteria.",
+    "formatDescriptions": {
+      "BRIEF": "Structural contraction. Narrow, focused perimeter.",
+      "DOSSIER": "Structured exposition. System-level perimeter.",
+      "REVIEW": "Structural comparison. Multiple configurations.",
+      "FILE": "Structural exhaustivity. Full admissible perimeter."
+    }
+  },
+  "commission": {
+    "title": "Commission",
+    "description": "Commission a publication tailored to your specific structural question. No advisory, interaction, or follow-up services.",
+    "form": {
+      "format": "Publication Format",
+      "topic": "Topic",
+      "topicPlaceholder": "One clear sentence describing the structural question",
+      "sector": "Industry / Sector",
+      "region": "Geographic Scope",
+      "status": "Publication Status",
+      "statusOptions": {
+        "private": "Commissioned (Private)",
+        "catalogue": "Commissioned + Catalogue Inclusion"
+      },
+      "expressDelivery": "Express Delivery",
+      "expressNote": "Production priority, not a marketing upsell",
+      "submit": "Submit Request",
+      "legalConfirmation": "I confirm that I have read and accept the Terms of Service and understand RIGLAN's structural methodology."
+    },
+    "pricing": {
+      "title": "Price Calculator",
+      "basePrice": "Base Price",
+      "privatePremium": "Private Premium",
+      "expressDeliverySurcharge": "Express Delivery Surcharge",
+      "catalogueDiscount": "Catalogue Inclusion Discount",
+      "total": "Total"
+    },
+    "process": {
+      "title": "How Commissioned Publications Work",
+      "step1": "Select a publication format",
+      "step2": "Define your topic in one clear sentence",
+      "step3": "Indicate scope constraints (optional)",
+      "step4": "Submit request for internal review",
+      "step5": "Internal review within 48 business hours"
+    }
+  },
+  "core": {
+    "title": "RIGLAN Core",
+    "description": "RIGLAN Core is an internal analytical framework. It ensures all publications are internally consistent and structurally sound.",
+    "clarification": "The framework is internal, non-commercial, not accessible, not a product, and cannot be purchased.",
+    "closing": "RIGLAN sells publications. Not access. Not methods. Not advice."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This form is for operational communication only.",
+    "form": {
+      "purpose": "Purpose",
+      "purposeOptions": {
+        "billing": "Billing question",
+        "delivery": "Delivery / technical question",
+        "status": "Status of a commissioned report"
+      },
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "note": "RIGLAN does not provide advisory via email or phone. Operational requests only."
+  },
+  "legal": {
+    "title": "Legal",
+    "sections": {
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "aiPolicy": "AI Training Prohibition"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "forgotPassword": "Forgot password?",
+      "noAccount": "Don't have an account?",
+      "register": "Register"
+    },
+    "register": {
+      "title": "Register",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "organization": "Organization (optional)",
+      "submit": "Create Account",
+      "hasAccount": "Already have an account?",
+      "login": "Login"
+    }
+  },
+  "account": {
+    "title": "Account",
+    "dashboard": "Dashboard",
+    "orders": "Purchase History",
+    "profile": "Profile",
+    "welcome": "Welcome back"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try again",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "required": "Required"
+  }
+}
